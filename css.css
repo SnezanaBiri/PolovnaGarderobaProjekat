@@ -68,6 +68,12 @@ padding:10px;
 	color:black;
 	font-weight: bold;
 }
+.lokacijaslika{
+	position:absolute;
+	width: 450px;
+	left: 30%; top: 30%;
+	
+}
 
 
 
