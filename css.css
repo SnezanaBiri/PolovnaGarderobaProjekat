@@ -31,7 +31,7 @@ border: none;
 border-radius: 0;
 padding: 0;
 margin:0;
-background-color:lightblue;
+background-color:cadetblue;
 }
 li{
 font-size: 18px;
@@ -40,7 +40,7 @@ p{
 	color:black;
 	font-weight: bold;
 }
-.form-wrap{ width: 450px; background:lightblue; padding: 40px 20px; box-sizing: border-box; position: fixed;
+.form-wrap{ width: 450px; background:cadetblue; padding: 40px 20px; box-sizing: border-box; position: fixed;
 		left: 50%; top: 50%; transform: translate(-50%, -50%);}      	
 #reklama{
   position: absolute;
