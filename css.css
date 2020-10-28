@@ -35,6 +35,7 @@ background-color:cadetblue;
 }
 li{
 font-size: 18px;
+list-style-type:none;
 }
 p{
 	color:black;
